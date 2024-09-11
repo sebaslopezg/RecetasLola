@@ -1,0 +1,13 @@
+:root{
+    --primary:rgb(100, 210, 230);
+}
+
+.nav-wrapper{
+    padding-left: 8px;
+ 
+}
+
+.dataZone img{
+    overflow: hidden;
+    width: 200px;
+}
